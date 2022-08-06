@@ -4,7 +4,7 @@ A Denial of Service for websites
 Easy to install and use:
 
 ```
-git clone https://github.com/HiddenAnonymous/Ddosite/
+git clone https://github.com/HiddenAnonymous/Ddosite
 cd Ddosite && ls
 python ddosite.py
 ```
